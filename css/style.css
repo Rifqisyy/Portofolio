@@ -266,7 +266,7 @@ section p {
 }
 
 .about-image img {
-    max-width: 900px;
+    max-width: 450px;
     transform: translate(50px, -50px) scale(1.05); /* ke kanan 20px, ke atas 10px */
     transition: all 0.4s ease;
 }

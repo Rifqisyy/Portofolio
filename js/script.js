@@ -248,7 +248,7 @@ document.addEventListener("DOMContentLoaded", () => {
     // Set email otomatis & readonly saat modal dibuka
     const emailInput = contactModal.querySelector('input[type="email"]');
     if (emailInput) {
-      emailInput.value = 'kelvianov10@gmail.com';
+      emailInput.value = 'rifqisyawa@gmail.com';
       emailInput.readOnly = true;
     }
   
@@ -293,7 +293,7 @@ document.addEventListener("DOMContentLoaded", () => {
       // Override email supaya tetap email kamu
       const emailInput = contactForm.querySelector('input[type="email"]');
       if (emailInput) {
-        emailInput.value = 'kelvianov10@gmail.com';
+        emailInput.value = 'rifqisyawa@gmail.com';
       }
   
       contactFormFeedback.textContent = '';
